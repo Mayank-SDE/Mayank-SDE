@@ -1,121 +1,105 @@
-<h1 align="center">Hi 👋, I'm Mayank Choudhary</h1>
-<h3 align="center">🚀 Full Stack Developer | DevOps Explorer | System Design Enthusiast | Building SaaS Products 🚀</h3>
+# 👋 Hi, I’m Mayank Choudhary  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayank-sde&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-sde" /> 
-  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20System%20Design-orange" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" />
-  <img src="https://img.shields.io/badge/Currently-CS%20Tech%20AI-blue" />
-</p>
+🚀 **Full-Stack Software Developer | UI/UX Designer | SaaS Architect | Mobile & Web App Specialist**  
+
+I build **world-class software solutions** that help businesses grow.  
+From **idea → design → development → deployment → marketing**, I handle **everything end-to-end** so you don’t need 5 different vendors.  
 
 ---
 
-## 🧑‍💻 About Me 
+## 💡 What I Offer
 
-- 💼 **Full Stack Developer at CS Tech AI**
-- 🌍 **Building Scalable SaaS Apps with NodeJS, React, NextJS, Spring Boot**
-- 📚 **Currently Sharpening**:
-  - System Design, DSA (LeetCode 300+), AWS Cloud, DevOps (Docker, Kubernetes, GitHub Actions)
-- 🎯 **2025 Goals**: Crack system design interviews, master cloud-native development, build & monetize own SaaS product
-- 🏆 **Long-Term Goal**: Become a One-Person Software Army 💻🚀
+✅ **UI/UX Design** — Beautiful & user-friendly designs in **Figma**  
+✅ **Web Applications** — Scalable apps with **React, Next.js, Tailwind, Java Spring Boot**  
+✅ **Mobile Apps** — **iOS (Swift/React Native)** & **Android (Kotlin/React Native)**  
+✅ **Backend Development** — Enterprise APIs with **Node.js, Express, Prisma, Java Spring Boot**  
+✅ **Database Design** — Optimized schemas with **PostgreSQL, MySQL, MongoDB**  
+✅ **Cloud Deployment** — AWS, Azure, GCP with CI/CD, Docker, Kubernetes  
+✅ **SEO & Digital Marketing** — Growth-focused strategies for visibility & traffic  
 
----
-
-## 🔥 GitHub Activity Graph
-
-[![Mayank's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayank-sde&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+✨ In short → I don’t just write code, I deliver **complete products**.  
 
 ---
 
-## 📊 GitHub Stats
+## 📦 My Packages  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank-sde&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-sde&layout=compact&theme=tokyonight" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-sde&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏗️ Tech Stack & Tools
-
-### **Frontend:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### **Backend:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,postgres" />
-</p>
-
-### **DevOps & Cloud:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" />
-</p>
-
-### **Tools & Other Skills:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,prisma,graphql,redis" />
-</p>
+### 🟢 **Starter (MVP / Small Business Website or App)**
+- 5–10 Figma screens  
+- Responsive web app (React/Next.js or Java Spring Boot)  
+- Basic backend & DB design  
+- Cloud deployment (AWS/Azure)  
+💰 ₹50,000 – ₹1,00,000 ($600 – $1,200)  
+⏳ 2–4 weeks  
 
 ---
 
-## 🧩 Projects
-
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| [📦 MKShop E-commerce](https://mk-shop-mern-frontend.vercel.app/) | Full-stack E-commerce app | MERN stack, Tailwind |
-| [🌍 GeoSpatial SaaS (CS Tech AI)](https://github.com/mayank-sde) | Private: Commercial SaaS | NodeJS, React, PostgreSQL, Leaflet |
-| [⚡ FastAPI Experiment](https://github.com/mayank-sde) | Backend playground | Python, FastAPI |
-| [🧮 Leetcode Patterns](https://leetcode.com/mayank-sde) | DSA grinding repo | LeetCode, GFG |
-
----
-
-## 🎯 2025 Goals Tracker
-
-- [x] 300+ LeetCode
-- [ ] Master System Design
-- [ ] Build & Deploy SaaS Product
-- [ ] Earn ₹5–10 crore/year 🚀
+### 🔵 **Pro (Startup-Ready Solution)**
+- 15–30 Figma screens (web + mobile)  
+- Full-stack app (React/Next.js + Node.js/Java Spring Boot backend)  
+- Authentication, APIs, payments integration  
+- iOS & Android app (React Native / Native Kotlin+Swift)  
+- CI/CD + Basic SEO  
+💰 ₹2,00,000 – ₹5,00,000 ($2,500 – $6,000)  
+⏳ 6–10 weeks  
 
 ---
 
-## 💬 Ask Me About
-`Full Stack Development`, `High Performance APIs`, `System Design`, `Career Growth`, `Cloud`, `Scaling SaaS`, `Open Source`
+### 🟣 **Premium (SaaS / Enterprise-Grade Product)**
+- 30+ Figma screens with dashboards & workflows  
+- Full SaaS platform (multi-tenant, subscription, analytics, billing)  
+- Advanced backend with **Java Spring Boot + Node.js hybrid**  
+- iOS & Android apps + Progressive Web App  
+- Cloud infra: Docker, Kubernetes, CI/CD pipelines  
+- SEO + Digital Marketing Strategy  
+- Ongoing maintenance & support  
+💰 ₹8,00,000 – ₹20,00,000+ ($10,000 – $25,000+)  
+⏳ 3–6 months  
 
 ---
 
-## 🏆 Open Source Contributions
+## 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://contrib.rocks/image?repo=mayank-sde" alt="Contribution Badge"/>
-</p>
+### 🖌️ **Design**
+- Figma, Adobe XD, Photoshop  
 
----
+### 🌐 **Frontend**
+- React, Next.js, TailwindCSS, ShadCN UI  
+- Android (Kotlin), iOS (Swift), React Native  
 
-## 🧩 Fun Stuff
+### ⚙️ **Backend**
+- Node.js, Express, Prisma  
+- Java Spring Boot, Hibernate  
 
-- 💪 Gym Freak
-- 🌱 Self-improving Daily
-- 🚬 Quit Smoking → Building 100% Healthy Lifestyle
-- 🎥 Favorite Movie Genre: Action & Revenge (John Wick vibes)
-- 🚴‍♂️ Aspiring Millionaire Developer
+### 🗄️ **Database**
+- PostgreSQL, MySQL, MongoDB  
 
----
+### ☁️ **DevOps & Cloud**
+- AWS, Azure, GCP  
+- Docker, Kubernetes, GitHub Actions, CI/CD  
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/mayanksde"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-  <a href="https://linkedin.com/in/mayank-choudhary-sde/"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://leetcode.com/mayank-sde/"><img src="https://skillicons.dev/icons?i=leetcode" height="30"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/mayankchoudhary6055/profile"><img src="https://skillicons.dev/icons?i=gfg" height="30"/></a>
-</p>
+### 📈 **Extras**
+- Keycloak (Auth), MinIO, RabbitMQ  
+- SEO, Growth Hacking, Digital Marketing  
 
 ---
 
-> 🚀 _“The goal is to be the guy who can take any product from an idea to a profitable SaaS business, solo.”_
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-sde&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-sde&layout=compact&theme=radical)  
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-sde&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Let’s Build Something Great  
+
+- 🌐 Portfolio: *coming soon*  
+- 💼 [LinkedIn](https://linkedin.com/in/mayank-sde)  
+- 🐙 [GitHub](https://github.com/mayank-sde)  
+- 📧 Email: *your email here*  
+
+---
+
+⚡ *Your idea deserves more than just code.*  
+With me, you get **Design + Development + Deployment + Growth** — all in one place.  
+Let’s turn your vision into a **world-class product** 🚀  
