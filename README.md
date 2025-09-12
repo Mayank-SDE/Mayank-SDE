@@ -96,7 +96,7 @@ From **idea → design → development → deployment → marketing**, I handle 
 - 🌐 Portfolio: *coming soon*  
 - 💼 [LinkedIn](https://linkedin.com/in/mayank-sde)  
 - 🐙 [GitHub](https://github.com/mayank-sde)  
-- 📧 Email: *your email here*  
+- 📧 Email: mayankchoudhary6055@gmail.com
 
 ---
 
