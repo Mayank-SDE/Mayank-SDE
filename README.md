@@ -59,17 +59,6 @@
 
 ---
 
-## 📌 Featured Projects (Pin these)
-> Replace placeholders with your real repos.
-
-- **S2M Client (Frontend)** — React + TS + Map UI + complex forms  
-  👉 https://github.com/mayank-sde/<your-repo>
-- **S2M Server (Backend)** — Express + Prisma + Postgres/PostGIS  
-  👉 https://github.com/mayank-sde/<your-repo>
-- **Geo Utilities** — helpers/scripts for geo pipelines (GDAL/coords/conversion)  
-  👉 https://github.com/mayank-sde/<your-repo>
-- **Learning / Notes** — consistent learning logs (DSA/System Design/DevOps)  
-  👉 https://github.com/mayank-sde/<your-repo>
 
 ---
 
